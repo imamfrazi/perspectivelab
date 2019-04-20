@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: January 27, 2019 4:37 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	4.8.8
+PHP INFO:	7.2.8 | SAPI: apache2handler
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 20.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:15 | filtered:0 | create:15 
+FILTERED: [] 
+SQL CREATED: 20190127_ptvisualmudakreatif_467a2a8f4bff95075769_20190127163723_database.sql 
+SQL FILE SIZE: 3.35MB (3511744) 
+SQL FILE TIME: 2019-01-27 16:37:27 
+SQL RUNTIME: 0.21 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/visualmuda 
+ARCHIVE FILE: 20190127_ptvisualmudakreatif_467a2a8f4bff95075769_20190127163723_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	106.79MB 
+STATS:	Dirs 334 | Files 3,257 
+SQL ADDED: 20190127_ptvisualmudakreatif_467a2a8f4bff95075769_20190127163723_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3591
+    [filename] => /Applications/MAMP/htdocs/visualmuda/wp-snapshots/tmp/20190127_ptvisualmudakreatif_467a2a8f4bff95075769_20190127163723_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 44.03MB 
+ARCHIVE RUNTIME: 11.60 sec. 
+MEMORY STACK: 22.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/visualmuda/wp-snapshots/tmp/20190127_ptvisualmudakreatif_467a2a8f4bff95075769_20190127163723_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 3.35MB 
+Installer File: 514.21KB 
+Archive File: 44.03MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 12.84 sec.
+PEAK PHP MEMORY USED: 24.25MB
+DONE PROCESSING => 20190127_ptvisualmudakreatif January 27, 2019 4:37 pm
+ 
